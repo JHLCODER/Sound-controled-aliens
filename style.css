@@ -1,0 +1,38 @@
+body {
+    font-family: cursive;
+    background-color: ghostwhite;
+}
+
+.header_div {
+    color: black;
+    background-color: dimgrey;
+}
+
+.header_div p {
+font-family: 'Times New Roman', Times, serif;
+color: black;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+
+.main_div button {
+font-family: 'Times New Roman', Times, serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bold;
+letter-spacing: 3px;
+}
+
+.copy_right_footer{
+ font-family: cursive;
+ color: black;
+ letter-spacing: 2px;
+ font-size: 12px;
+ font-weight: bold;
+ background-color: beige;
+ position: fixed;
+ bottom: 0;
+ width: 100%;
+ text-align: center;
+}
